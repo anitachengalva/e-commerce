@@ -61,19 +61,19 @@ Open Insomnia to view the routes.
 
 <a href="https://drive.google.com/file/d/13QkAgfXAyhPZ6LJHk8AJpPi_kS9mzZ9-/view">
 
-![Category Routes](path-placeholder)
+![Category Routes](./assets/13-getcategories.jpg)
 *Get Category Routes*
 </br>
 
-![Product Routes](path-placeholder)
+![Product Routes](./assets/13-getproducts.jpg)
 *Get Product Routes*
 </br>
 
-![Tag Routes](path-placeholder)
+![Tag Routes](./assets/13-gettags.jpg)
 *Get Tag Routes*
 </br>
 
-<a>
+</a>
 </br>
 
 ## Contributors
