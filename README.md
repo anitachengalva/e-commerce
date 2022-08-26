@@ -11,7 +11,7 @@ API GET, POST, PULL, and DELETE routes in Insomnia are used to display, create, 
 ## Deployed Link
 
 This application is not deployed, so below is a link to the walkthrough video.
-> [Walkthrough](#screenshots-and-walkthrough)
+> *https://drive.google.com/file/d/13QkAgfXAyhPZ6LJHk8AJpPi_kS9mzZ9-/view*
 
 
 ## Table of Contents
@@ -35,7 +35,9 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Installation and Usage
 
-In order to run this application, you will want to `git clone` this repository so that the code is on your local machine. Run `npm i` while in the root directory in order to install all necessary [Node.js](https://nodejs.org/en/) dependencies. The application will be invoked by using the command `node index.js`.
+In order to run this application, you will want to `git clone` this repository so that the code is on your local machine. Run `npm i` while in the root directory in order to install all necessary [Node.js](https://nodejs.org/en/) dependencies. Run `npm run seed` to populate the database, then launch the server by using the command `npm run start`.
+
+Open Insomnia to view the routes.
 
 
 ## Technologies Utilized
@@ -52,11 +54,26 @@ In order to run this application, you will want to `git clone` this repository s
 > - [Sequelize npm](https://www.npmjs.com/package/sequelize)
 > - [dotenv npm](https://www.npmjs.com/package/dotenv)
 
+> [Insomnia](https://docs.insomnia.rest/insomnia/get-started)
+
 
 ## Screenshots and Walkthrough
 
-![Alt-txt-placeholder](path-placeholder)
-*caption*
+<a href="https://drive.google.com/file/d/13QkAgfXAyhPZ6LJHk8AJpPi_kS9mzZ9-/view">
+
+![Category Routes](path-placeholder)
+*Get Category Routes*
+</br>
+
+![Product Routes](path-placeholder)
+*Get Product Routes*
+</br>
+
+![Tag Routes](path-placeholder)
+*Get Tag Routes*
+</br>
+
+<a>
 </br>
 
 ## Contributors
